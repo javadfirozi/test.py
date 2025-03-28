@@ -6,3 +6,6 @@ if x > y :
     print("yes")
 else :
     print("y is bigger")
+
+
+salam
